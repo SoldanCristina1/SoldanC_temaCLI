@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\Application.exe.config
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\Application.exe
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\Application.pdb
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\OpenTK.dll
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\OpenTK.pdb
+C:\Users\Lenovo\Downloads\lab3\Application\bin\Debug\OpenTK.xml
+C:\Users\Lenovo\Downloads\lab3\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\lab3\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\lab3\Application\obj\Debug\Applicat.44B5EDA2.Up2Date
+C:\Users\Lenovo\Downloads\lab3\Application\obj\Debug\Application.exe
+C:\Users\Lenovo\Downloads\lab3\Application\obj\Debug\Application.pdb

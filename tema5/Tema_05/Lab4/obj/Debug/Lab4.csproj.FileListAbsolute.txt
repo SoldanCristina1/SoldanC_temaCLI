@@ -1,0 +1,42 @@
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.dll
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.dll
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.xml
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.pdb
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.xml
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Cursuri(2017-2021)\An 3\Sem1\EGC\Laboratoare\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.pdb
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Cosmin\Desktop\Lab4\TA\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\EGC\Lab4_\Lab4\bin\Debug\Lab4.exe.config
+C:\EGC\Lab4_\Lab4\bin\Debug\Lab4.exe
+C:\EGC\Lab4_\Lab4\bin\Debug\Lab4.pdb
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.dll
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.GLControl.dll
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.pdb
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.xml
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.GLControl.pdb
+C:\EGC\Lab4_\Lab4\bin\Debug\OpenTK.GLControl.xml
+C:\EGC\Lab4_\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\EGC\Lab4_\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\EGC\Lab4_\Lab4\obj\Debug\Lab4.csproj.Up2Date
+C:\EGC\Lab4_\Lab4\obj\Debug\Lab4.exe
+C:\EGC\Lab4_\Lab4\obj\Debug\Lab4.pdb
